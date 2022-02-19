@@ -30,11 +30,21 @@ This is the pre production initial design files with planned features and initia
 # **Images**
 <table>
   <tr>
-    <td>Schematic</td>
-     <td>PCB Layout</td>
+    <td>3D Model</td>
+     <td>PCB Schematic</td>
   </tr>
   <tr>
-    <td><img src="images/SmartRV-RGBWW-Schematic.jpg" height=480></td>
+    <td><img src="/Images/3dmodel.jpg" height=480></td>
+    <td><img src="/Images/Schematic.jpg" height=480></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td>PCB Layout</td>
+  </tr>
+  <tr>
+    <td><img src="/Images/PCB.jpg" height=480></td>
   </tr>
  </table>
 
