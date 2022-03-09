@@ -13,19 +13,22 @@ The module has been kept as compact as possible and allows for a direct connecti
 **If you want to support the development you can purchase this board as a DIY kit or assembled from my Ko-Fi Shop [SmartRV Shop](https://ko-fi.com/smartrv/shop)**
 
 # **v0.1**
-This is the pre production initial design files with planned features and initial designs.
+This is the pre-production initial design files with planned features and initial designs. Design is as far untested.
 
-# **Planned Features**
-- ESP32 Microcontroller
-- Serperate 5 channel LED control 1a per channel
-- On board programming
-- Bluetooth connection to hub
-- Reverse voltage protection
-- FTDI programmer pinout
-- 12v input
+# **New This Release**
+
+- [x] Upload full Kicad files
+
+# **Current Features**
+- [x] ESP32 Microcontroller
+- [x] Serperate 5 channel LED control 1a per channel
+- [x] Reverse voltage protection
+- [x] FTDI programmer pinout
+- [x] 12v input
 
 # **Upcoming Changes**
-
+- [ ] On board programming
+- [ ] Bluetooth connection to hub
 
 # **Images**
 <table>
